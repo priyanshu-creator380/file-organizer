@@ -1,0 +1,8 @@
+# This is the readme file for this project
+
+## Steps to run the project
+1. Download the project as zip
+2. run `pip install -r requirements.txt` on cmd
+3. then on cmd run `python main.py`
+
+this will start and execute the project a window like pane will appear on screen where you can enter the url of the folder with all your stuff to organize then click organize this will start the organization and after a while it will say complete and all the files will be sorted also a timed log will be created of that organization operation

@@ -1,1 +1,3 @@
-import ttkbootstrap as ttk
+import function
+
+import ttkbootstrap
