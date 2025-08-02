@@ -6,3 +6,11 @@
 3. then on cmd run `python main.py`
 
 this will start and execute the project a window like pane will appear on screen where you can enter the url of the folder with all your stuff to organize then click organize this will start the organization and after a while it will say complete and all the files will be sorted also a timed log will be created of that organization operation
+
+### File structure
+1. Logs are in logs folder
+2. main.py will just executes the code
+3. ui.py will have the user interface code using ttkbootstrap
+4. function.py will have the sorting code
+
+was learning classes in python so will try to use it 
