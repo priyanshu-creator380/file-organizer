@@ -14,3 +14,5 @@ this will start and execute the project a window like pane will appear on screen
 4. function.py will have the sorting code
 
 was learning classes in python so will try to use it 
+
+## You can add more maps to the maps.json file to increase and arrange which file goes where
