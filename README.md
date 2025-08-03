@@ -16,3 +16,9 @@ this will start and execute the project a window like pane will appear on screen
 was learning classes in python so will try to use it 
 
 ## You can add more maps to the maps.json file to increase and arrange which file goes where
+
+# if you download the zip the `proj.zip` file to run it 
+1. extract the zip.
+2. it has three files main.exe, .log file and a maps.json 
+3. all these file are important 
+4. after extracting just double click on the main.exe file
