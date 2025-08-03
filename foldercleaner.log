@@ -1,0 +1,208 @@
+2025-08-03 12:30:37,205 - INFO - Sorter initialized with entry and result_label on path 
+2025-08-03 12:32:01,406 - INFO - Sorter initialized with entry and result_label on path 
+2025-08-03 12:32:42,555 - INFO - Sorter initialized with entry and result_label on path 
+2025-08-03 12:33:30,477 - INFO - Sorter initialized with entry and result_label on path 
+2025-08-03 12:34:04,683 - INFO - Sorter initialized with entry and result_label on path 
+2025-08-03 12:34:07,916 - INFO - Moved D:\DOWNLOADS\02ab15a72ff3e58a71f4b55d5f7be7f8.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,917 - INFO - Moved D:\DOWNLOADS\0f75d0a4-baf3-4b8e-983d-6e718dbc703e.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,917 - INFO - Moved D:\DOWNLOADS\10.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,919 - WARNING - Repeated file found: D:\DOWNLOADS\127.0.0.1_5500_index.html.png
+2025-08-03 12:34:07,919 - INFO - Moved D:\DOWNLOADS\127.0.0.1_5500_index.html.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,919 - INFO - Moved D:\DOWNLOADS\127.0.0.1_5500_index2.html (1).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,920 - INFO - Moved D:\DOWNLOADS\127.0.0.1_5500_index2.html.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,920 - WARNING - Repeated file found: D:\DOWNLOADS\127.0.0.1_5500_test_index.html.png
+2025-08-03 12:34:07,920 - INFO - Moved D:\DOWNLOADS\127.0.0.1_5500_test_index.html.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,921 - INFO - Moved D:\DOWNLOADS\2024 R&C PORTFOLIO[1].pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,922 - INFO - Moved D:\DOWNLOADS\2024 R&C PORTFOLIO_compressed.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,922 - INFO - Moved D:\DOWNLOADS\6.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,923 - INFO - Moved D:\DOWNLOADS\7-inch_drone_component_list.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,923 - INFO - Moved D:\DOWNLOADS\7-inch_drone_component_list_with_links.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,923 - INFO - Moved D:\DOWNLOADS\7.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,924 - INFO - Moved D:\DOWNLOADS\8.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,924 - INFO - Moved D:\DOWNLOADS\9.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,925 - INFO - Moved D:\DOWNLOADS\AADHAR.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,925 - INFO - Moved D:\DOWNLOADS\adobe-express-qr-code.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,925 - INFO - Moved D:\DOWNLOADS\AI_ML_3_Month_Learning_Plan.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,926 - INFO - Moved D:\DOWNLOADS\AI_ML_4_Month_Day_By_Day_Checklist (1).xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,926 - INFO - Moved D:\DOWNLOADS\AI_ML_4_Month_Day_By_Day_Checklist (2).xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,926 - INFO - Moved D:\DOWNLOADS\AI_ML_4_Month_Day_By_Day_Checklist (3).xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,927 - INFO - Moved D:\DOWNLOADS\AI_ML_4_Month_Day_By_Day_Checklist.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,927 - INFO - Moved D:\DOWNLOADS\all_sitestatus20250714003955.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,927 - INFO - Moved D:\DOWNLOADS\all_sitestatus20250714003959.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,928 - INFO - Moved D:\DOWNLOADS\Animated_Person_Walks_Out.mp4 to D:\DOWNLOADS\Videos
+2025-08-03 12:34:07,928 - INFO - Moved D:\DOWNLOADS\Animated_Video_Content_Ready.mp4 to D:\DOWNLOADS\Videos
+2025-08-03 12:34:07,929 - INFO - Moved D:\DOWNLOADS\anime-moon-landscape.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,929 - INFO - Moved D:\DOWNLOADS\app.py to D:\DOWNLOADS\Executable
+2025-08-03 12:34:07,929 - INFO - Moved D:\DOWNLOADS\AQI_Visualizer_Detailed_Features.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,930 - INFO - Moved D:\DOWNLOADS\AQI_Visualizer_Endpoints.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,931 - WARNING - Repeated file found: D:\DOWNLOADS\archive.zip
+2025-08-03 12:34:07,931 - INFO - Moved D:\DOWNLOADS\archive.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,931 - WARNING - Repeated file found: D:\DOWNLOADS\bipin.jpg
+2025-08-03 12:34:07,931 - INFO - Moved D:\DOWNLOADS\bipin.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,932 - INFO - Moved D:\DOWNLOADS\BotGuardian-backend-main.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,932 - INFO - Moved D:\DOWNLOADS\cat-silhouette-overlooking-cityscape-night.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,933 - INFO - Moved D:\DOWNLOADS\celestial_data.json to D:\DOWNLOADS\Executable
+2025-08-03 12:34:07,933 - INFO - Moved D:\DOWNLOADS\cicfav.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,934 - INFO - Moved D:\DOWNLOADS\close-lg-svgrepo-com.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,934 - INFO - Moved D:\DOWNLOADS\color (1).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,934 - INFO - Moved D:\DOWNLOADS\color (10).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,935 - INFO - Moved D:\DOWNLOADS\color (3).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,936 - INFO - Moved D:\DOWNLOADS\color (4).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,936 - INFO - Moved D:\DOWNLOADS\color (5).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,936 - INFO - Moved D:\DOWNLOADS\color (6).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,937 - INFO - Moved D:\DOWNLOADS\color (7).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,937 - INFO - Moved D:\DOWNLOADS\color (8).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,937 - INFO - Moved D:\DOWNLOADS\color (9).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,938 - INFO - Moved D:\DOWNLOADS\content-creation.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,938 - INFO - Moved D:\DOWNLOADS\Copy of Full Catalogue Listing.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,939 - INFO - Moved D:\DOWNLOADS\Credits Redeeming Video Guide.mp4 to D:\DOWNLOADS\Videos
+2025-08-03 12:34:07,940 - INFO - Moved D:\DOWNLOADS\dashicons_portfolio.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,940 - INFO - Moved D:\DOWNLOADS\diagram (2).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,940 - INFO - Moved D:\DOWNLOADS\diagram-export-7-10-2025-12_18_49-AM.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,941 - INFO - Moved D:\DOWNLOADS\diagram-export-7-9-2025-12_31_22-AM.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,941 - INFO - Moved D:\DOWNLOADS\diagram.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,942 - INFO - Moved D:\DOWNLOADS\DIGITAL DOMINATION.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,942 - INFO - Moved D:\DOWNLOADS\DIGITAL DOMINATION.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,942 - INFO - Moved D:\DOWNLOADS\Digital_Domination_Media_Plan.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,943 - INFO - Moved D:\DOWNLOADS\download (1).jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,943 - INFO - Moved D:\DOWNLOADS\download (2).jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,943 - INFO - Moved D:\DOWNLOADS\download.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,944 - INFO - Moved D:\DOWNLOADS\EAadhaar_0013080090267020240107161439_03072025205716_unlocked.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,944 - INFO - Moved D:\DOWNLOADS\EAadhaar_0648171340803320221226121909_02072025134615.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,945 - INFO - Moved D:\DOWNLOADS\EAadhaar_0648171340803320221226121909_02072025134615_protected.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,945 - INFO - Moved D:\DOWNLOADS\EAadhaar_0648171340803320221226121909_02072025134615_unlocked (1).pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,945 - INFO - Moved D:\DOWNLOADS\EAadhaar_0648171340803320221226121909_02072025134615_unlocked.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,946 - INFO - Moved D:\DOWNLOADS\EAadhaar_2728106019022920250626121128_04072025143714.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,946 - INFO - Moved D:\DOWNLOADS\editor.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,947 - INFO - Moved D:\DOWNLOADS\Ellipse 1 (1).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,947 - INFO - Moved D:\DOWNLOADS\Event_Post_Schedule.xlsx to D:\DOWNLOADS\Spreadsheet
+2025-08-03 12:34:07,948 - INFO - Moved D:\DOWNLOADS\export-pdf-demo.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,948 - INFO - Moved D:\DOWNLOADS\forgot-password-system.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,949 - INFO - Moved D:\DOWNLOADS\freepik__a-bustling-construction-site-at-dawn-in-manhattan-__79283.jpeg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,949 - INFO - Moved D:\DOWNLOADS\freepik__a-construction-site-on-a-tropical-beach-in-bali-in__79280.jpeg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,949 - INFO - Moved D:\DOWNLOADS\freepik__a-modern-construction-site-in-tokyo-japan-at-night__79281.jpeg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,950 - INFO - Moved D:\DOWNLOADS\freepik__a-muddy-construction-site-in-rural-ireland-during-__79282.jpeg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,950 - INFO - Moved D:\DOWNLOADS\freepik__abstract-representation-of-ai-algorithms-transform__39268.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,951 - INFO - Moved D:\DOWNLOADS\freepik__cartoonish-orangethemed-illustration-of-ai-revolut__69387.jpeg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,951 - INFO - Moved D:\DOWNLOADS\full-shot-ninja-wearing-equipment (2).jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,951 - INFO - Moved D:\DOWNLOADS\full-shot-ninja-wearing-equipment.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,952 - INFO - Moved D:\DOWNLOADS\gehnawala (2).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,953 - WARNING - Repeated file found: D:\DOWNLOADS\gehnawala.zip
+2025-08-03 12:34:07,953 - INFO - Moved D:\DOWNLOADS\gehnawala.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,953 - INFO - Moved D:\DOWNLOADS\github.com_pv2k3_.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,954 - INFO - Moved D:\DOWNLOADS\GJ (1).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,954 - INFO - Moved D:\DOWNLOADS\GJ (2).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,954 - INFO - Moved D:\DOWNLOADS\GJ (3).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,955 - WARNING - Repeated file found: D:\DOWNLOADS\GJ.zip
+2025-08-03 12:34:07,956 - INFO - Moved D:\DOWNLOADS\GJ.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,956 - INFO - Moved D:\DOWNLOADS\green-dashboard (1).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,956 - INFO - Moved D:\DOWNLOADS\green-dashboard.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,956 - INFO - Creating directory D:\DOWNLOADS\Powerpoint for extension .pptx
+2025-08-03 12:34:07,957 - INFO - Moved D:\DOWNLOADS\greenbyte.pptx to D:\DOWNLOADS\Powerpoint
+2025-08-03 12:34:07,957 - INFO - Moved D:\DOWNLOADS\hackathon poster.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,958 - WARNING - Repeated file found: D:\DOWNLOADS\halloween-scene-illustration-anime-style.jpg
+2025-08-03 12:34:07,958 - INFO - Moved D:\DOWNLOADS\halloween-scene-illustration-anime-style.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,959 - INFO - Moved D:\DOWNLOADS\home-alt-svgrepo-com.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,959 - INFO - Moved D:\DOWNLOADS\hostinger-recovery-codes (1).txt to D:\DOWNLOADS\Text Document
+2025-08-03 12:34:07,959 - INFO - Moved D:\DOWNLOADS\hostinger-recovery-codes.txt to D:\DOWNLOADS\Text Document
+2025-08-03 12:34:07,960 - INFO - Moved D:\DOWNLOADS\Human_Robot_Upgrade_Application.docx to D:\DOWNLOADS\Text Document
+2025-08-03 12:34:07,960 - INFO - Moved D:\DOWNLOADS\ic_outline-perm-contact-calendar.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,961 - INFO - Moved D:\DOWNLOADS\IITK_Hackathon-main.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,961 - INFO - Moved D:\DOWNLOADS\ImageReference.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,961 - INFO - Moved D:\DOWNLOADS\images.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,962 - INFO - Moved D:\DOWNLOADS\img.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,962 - INFO - Moved D:\DOWNLOADS\issue.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,962 - INFO - Moved D:\DOWNLOADS\ivkwwche5p1c-001.rar to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,963 - INFO - Moved D:\DOWNLOADS\ix_projects.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,963 - WARNING - Repeated file found: D:\DOWNLOADS\Khushi.jpg
+2025-08-03 12:34:07,963 - INFO - Moved D:\DOWNLOADS\Khushi.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,964 - INFO - Moved D:\DOWNLOADS\landingpage.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,964 - INFO - Moved D:\DOWNLOADS\ll.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,965 - WARNING - Repeated file found: D:\DOWNLOADS\localhost_8000_.png
+2025-08-03 12:34:07,965 - INFO - Moved D:\DOWNLOADS\localhost_8000_.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,966 - INFO - Moved D:\DOWNLOADS\localhost_blogging_site_blog.php (1).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,966 - INFO - Moved D:\DOWNLOADS\localhost_blogging_site_blog.php.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,967 - INFO - Moved D:\DOWNLOADS\localhost_gehnawala_.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,967 - INFO - Moved D:\DOWNLOADS\logoes.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,967 - INFO - Moved D:\DOWNLOADS\logor_c-removebg-preview.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,968 - INFO - Moved D:\DOWNLOADS\lone-figure-walking-through-frozen-landscape.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,968 - INFO - Moved D:\DOWNLOADS\MacBook Pro 16_ - 3 (1).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,969 - INFO - Moved D:\DOWNLOADS\MacBook Pro 16_ - 3.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,969 - INFO - Moved D:\DOWNLOADS\MacBook Pro 16_ - 3.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,969 - INFO - Moved D:\DOWNLOADS\mail.google.com_mail_u_0__tab=rm&ogbl.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,970 - INFO - Moved D:\DOWNLOADS\maximize-svgrepo-com.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,971 - INFO - Moved D:\DOWNLOADS\mbm with new logo only.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,971 - INFO - Moved D:\DOWNLOADS\mbmclientlogos.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,972 - INFO - Moved D:\DOWNLOADS\mbmtest.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,972 - INFO - Moved D:\DOWNLOADS\minimize-svgrepo-com.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,973 - INFO - Moved D:\DOWNLOADS\multi-page-website (1).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,973 - INFO - Moved D:\DOWNLOADS\multi-page-website.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,973 - INFO - Moved D:\DOWNLOADS\mybrandmanagers.com_brand.php (1).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,974 - INFO - Moved D:\DOWNLOADS\mybrandmanagers.com_brand.php.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,975 - WARNING - Repeated file found: D:\DOWNLOADS\mybrandmanagers.com_index.php.png
+2025-08-03 12:34:07,975 - INFO - Moved D:\DOWNLOADS\mybrandmanagers.com_index.php.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,975 - INFO - Moved D:\DOWNLOADS\myimg.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,976 - INFO - Moved D:\DOWNLOADS\mynaui_home-solid.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,976 - INFO - Moved D:\DOWNLOADS\newbg (1).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,977 - INFO - Moved D:\DOWNLOADS\newbg (2).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,977 - INFO - Moved D:\DOWNLOADS\newbg (3).png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,978 - INFO - Moved D:\DOWNLOADS\newbg.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,978 - INFO - Moved D:\DOWNLOADS\palette.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,978 - INFO - Moved D:\DOWNLOADS\palette2.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,979 - INFO - Moved D:\DOWNLOADS\pdtpv51i.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,979 - INFO - Moved D:\DOWNLOADS\Personalized-Customer-Service.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,980 - INFO - Moved D:\DOWNLOADS\pexels-photo-807598 1.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,980 - INFO - Moved D:\DOWNLOADS\plants.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,981 - INFO - Moved D:\DOWNLOADS\polygonal-dark-background.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,981 - INFO - Moved D:\DOWNLOADS\portfolio (2).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,982 - INFO - Moved D:\DOWNLOADS\portfolio.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,982 - INFO - Moved D:\DOWNLOADS\poster.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,982 - INFO - Moved D:\DOWNLOADS\predicitive-analytics.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,983 - INFO - Moved D:\DOWNLOADS\Presentation - Smart Environmental Planning Tool.pptx to D:\DOWNLOADS\Powerpoint
+2025-08-03 12:34:07,983 - INFO - Moved D:\DOWNLOADS\preview.themeforest.net_item_boldz-personal-portfolio-html_full_screen_preview_54655262__ga=2.259508042.1142008928.1750158730-undefined.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,984 - INFO - Moved D:\DOWNLOADS\priyanshu-profile.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,984 - INFO - Moved D:\DOWNLOADS\priyanshu.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,984 - INFO - Moved D:\DOWNLOADS\Priyanshu_Verma.pdf to D:\DOWNLOADS\PDF
+2025-08-03 12:34:07,985 - INFO - Moved D:\DOWNLOADS\Priyanshu_Verma_Resume.docx to D:\DOWNLOADS\Text Document
+2025-08-03 12:34:07,985 - INFO - Moved D:\DOWNLOADS\Priyanshu_Verma_Updated_Resume.docx to D:\DOWNLOADS\Text Document
+2025-08-03 12:34:07,985 - INFO - Moved D:\DOWNLOADS\projects-svgrepo-com.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,986 - INFO - Moved D:\DOWNLOADS\prompt-design-in-vertex-ai-skill-badge.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,987 - WARNING - Repeated file found: D:\DOWNLOADS\public_html (1).zip
+2025-08-03 12:34:07,987 - INFO - Moved D:\DOWNLOADS\public_html (1).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,988 - WARNING - Repeated file found: D:\DOWNLOADS\public_html (2).zip
+2025-08-03 12:34:07,988 - INFO - Moved D:\DOWNLOADS\public_html (2).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,988 - WARNING - Repeated file found: D:\DOWNLOADS\public_html (3).zip
+2025-08-03 12:34:07,988 - INFO - Moved D:\DOWNLOADS\public_html (3).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,989 - WARNING - Repeated file found: D:\DOWNLOADS\public_html (4).zip
+2025-08-03 12:34:07,989 - INFO - Moved D:\DOWNLOADS\public_html (4).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,989 - INFO - Moved D:\DOWNLOADS\public_html (5).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,990 - WARNING - Repeated file found: D:\DOWNLOADS\public_html.zip
+2025-08-03 12:34:07,990 - INFO - Moved D:\DOWNLOADS\public_html.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,990 - INFO - Moved D:\DOWNLOADS\razorpay-integration.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,991 - INFO - Moved D:\DOWNLOADS\razorpay-php-2.9.1.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,991 - INFO - Moved D:\DOWNLOADS\samurai-warrior-night-by-lake.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,992 - INFO - Moved D:\DOWNLOADS\screencapture-127-0-0-1-5500-test-t3-html-2025-07-10-15_40_15.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,992 - INFO - Moved D:\DOWNLOADS\screencapture-127-0-0-1-5500-test-t3-html-2025-07-11-14_09_34.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,993 - INFO - Moved D:\DOWNLOADS\screencapture-apple-2025-07-16-14_59_31.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,993 - INFO - Moved D:\DOWNLOADS\Screenshot 2025-07-10 014430.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,993 - INFO - Moved D:\DOWNLOADS\services (1).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,994 - INFO - Moved D:\DOWNLOADS\services (2).zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,994 - INFO - Moved D:\DOWNLOADS\services.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,994 - INFO - Moved D:\DOWNLOADS\shopify.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,995 - INFO - Moved D:\DOWNLOADS\socialmedia.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,995 - INFO - Moved D:\DOWNLOADS\star.gif to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,996 - INFO - Moved D:\DOWNLOADS\sticker.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,996 - INFO - Moved D:\DOWNLOADS\sticker2.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,997 - INFO - Moved D:\DOWNLOADS\sticker3.jpg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,997 - INFO - Moved D:\DOWNLOADS\streamline-logos_about-me-logo-solid.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,998 - INFO - Moved D:\DOWNLOADS\testdisk-7.3-WIP.win.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,998 - INFO - Moved D:\DOWNLOADS\Twitter_Bot_Detector-main.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,999 - INFO - Moved D:\DOWNLOADS\Untitled.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:07,999 - INFO - Moved D:\DOWNLOADS\Vector.svg to D:\DOWNLOADS\Images
+2025-08-03 12:34:07,999 - INFO - Moved D:\DOWNLOADS\vegeta-ultra-ego.3840x2160.mp4 to D:\DOWNLOADS\Videos
+2025-08-03 12:34:08,000 - INFO - Moved D:\DOWNLOADS\video.mp4 to D:\DOWNLOADS\Videos
+2025-08-03 12:34:08,000 - INFO - Moved D:\DOWNLOADS\wildpunch.in_Kokam.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:08,001 - INFO - Moved D:\DOWNLOADS\wizMWuRSteBScuVxEe4Z_IntroToUnrealAssets.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:08,001 - INFO - Moved D:\DOWNLOADS\wordpress-6.8.1.zip to D:\DOWNLOADS\Compressed
+2025-08-03 12:34:08,002 - INFO - Moved D:\DOWNLOADS\wpriverthemes.com_HTML_boldz_index.html.png to D:\DOWNLOADS\Images
+2025-08-03 12:34:08,002 - INFO - All files which can be mapped are moved from D:\DOWNLOADS

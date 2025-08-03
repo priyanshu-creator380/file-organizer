@@ -19,7 +19,7 @@ class Sorter:
         global list_extension
         global source_file
         list_extension = []
-        with open(os.path.join(os.getcwd(), "FolderCleaner/map.json"), 'r') as f:
+        with open(os.path.join(os.getcwd(), "maps.json"), 'r') as f:
             # For mapping extensions to the folder
             common_extensions = json.load(f)
 
